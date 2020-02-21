@@ -30,3 +30,11 @@ C:\Users\Sbreglias\source\repos\InstantFest_2\InstantFest_2\obj\Debug\netcoreapp
 C:\Users\Sbreglias\source\repos\InstantFest_2\InstantFest_2\obj\Debug\netcoreapp2.1\InstantFest_2.dll
 C:\Users\Sbreglias\source\repos\InstantFest_2\InstantFest_2\obj\Debug\netcoreapp2.1\InstantFest_2.pdb
 C:\Users\Sbreglias\source\repos\InstantFest_2\InstantFest_2\obj\Debug\netcoreapp2.1\InstantFest_2.csproj.CopyComplete
+C:\Users\gallinaris\Documents\ProjectWork\MyFest\InstantFest_2\InstantFest_2\obj\Debug\netcoreapp2.1\InstantFest_2.csprojAssemblyReference.cache
+C:\Users\gallinaris\Documents\ProjectWork\MyFest\InstantFest_2\InstantFest_2\obj\Debug\netcoreapp2.1\InstantFest_2.csproj.CoreCompileInputs.cache
+C:\Users\gallinaris\Documents\ProjectWork\MyFest\InstantFest_2\InstantFest_2\obj\Debug\netcoreapp2.1\InstantFest_2.RazorAssemblyInfo.cache
+C:\Users\gallinaris\Documents\ProjectWork\MyFest\InstantFest_2\InstantFest_2\obj\Debug\netcoreapp2.1\InstantFest_2.RazorAssemblyInfo.cs
+C:\Users\gallinaris\Documents\ProjectWork\MyFest\InstantFest_2\InstantFest_2\obj\Debug\netcoreapp2.1\InstantFest_2.AssemblyInfoInputs.cache
+C:\Users\gallinaris\Documents\ProjectWork\MyFest\InstantFest_2\InstantFest_2\obj\Debug\netcoreapp2.1\InstantFest_2.AssemblyInfo.cs
+C:\Users\gallinaris\Documents\ProjectWork\MyFest\InstantFest_2\InstantFest_2\obj\Debug\netcoreapp2.1\InstantFest_2.dll
+C:\Users\gallinaris\Documents\ProjectWork\MyFest\InstantFest_2\InstantFest_2\obj\Debug\netcoreapp2.1\InstantFest_2.pdb

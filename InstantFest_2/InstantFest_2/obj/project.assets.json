@@ -12219,23 +12219,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sbreglias\\.nuget\\packages\\": {},
+    "C:\\Users\\gallinaris\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sbreglias\\Documents\\ProjectWork\\MyFest\\InstantFest_2\\InstantFest_2\\InstantFest_2.csproj",
+      "projectUniqueName": "C:\\Users\\gallinaris\\Documents\\ProjectWork\\MyFest\\InstantFest_2\\InstantFest_2\\InstantFest_2.csproj",
       "projectName": "InstantFest_2",
-      "projectPath": "C:\\Users\\Sbreglias\\Documents\\ProjectWork\\MyFest\\InstantFest_2\\InstantFest_2\\InstantFest_2.csproj",
-      "packagesPath": "C:\\Users\\Sbreglias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sbreglias\\Documents\\ProjectWork\\MyFest\\InstantFest_2\\InstantFest_2\\obj\\",
+      "projectPath": "C:\\Users\\gallinaris\\Documents\\ProjectWork\\MyFest\\InstantFest_2\\InstantFest_2\\InstantFest_2.csproj",
+      "packagesPath": "C:\\Users\\gallinaris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gallinaris\\Documents\\ProjectWork\\MyFest\\InstantFest_2\\InstantFest_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Sbreglias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gallinaris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
