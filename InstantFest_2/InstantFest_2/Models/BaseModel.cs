@@ -7,5 +7,8 @@ namespace InstantFest_2.Models
 {
     public class BaseModel
     {
+        public string Title { get; set; }
+
+        public string Text { get; set; }
     }
 }

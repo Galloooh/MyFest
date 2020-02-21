@@ -5,7 +5,8 @@ using System.Threading.Tasks;
 
 namespace InstantFest_2.Models
 {
-    public class IndexModel
+    public class IndexModel : BaseModel
     {
+        
     }
 }

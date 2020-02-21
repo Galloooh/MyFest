@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace InstantFest_2.Models
 {
-    public class LoginModel
+    public class LoginModel : BaseModel
     {
         public string Username { get; set; }
         public string Email { get; set; }
